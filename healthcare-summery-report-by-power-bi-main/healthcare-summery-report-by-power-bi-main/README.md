@@ -51,8 +51,6 @@ The goal of this report is to help healthcare providers and administrators make 
 
 ---
 
-##  License
-This project is shared under the **MIT License**. Feel free to use, modify, and distribute with attribution.  
 
 ---
 
