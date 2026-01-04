@@ -61,3 +61,8 @@ nltk.download('stopwords')
 - Experiment with different clustering algorithms (HDBSCAN, DBSCAN)
 - Evaluate cluster quality using metrics like Silhouette Score
 - Automatically assign topics using topic modeling (LDA or BERTopic)
+
+##  Author
+kashif noor
+
+Data Scientist | Power BI Developer | AI Enthusiast
