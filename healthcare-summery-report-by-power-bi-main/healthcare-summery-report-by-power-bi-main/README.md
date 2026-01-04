@@ -54,12 +54,9 @@ The goal of this report is to help healthcare providers and administrators make 
 
 ---
 
-##  Contributing
-Contributions are welcome!  
-If you’d like to improve visuals, add features, or suggest enhancements:
-1. Fork the repo  
-2. Create a new branch  
-3. Submit a pull request  
+##  Author
+kashif noor
+Data Scientist | Power BI Developer | AI Enthusiast
 
 ---
 
