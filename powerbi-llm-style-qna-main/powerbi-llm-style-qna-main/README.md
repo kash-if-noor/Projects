@@ -46,5 +46,5 @@ This project focuses on natural language analytics, auto-generated visuals, and 
 - User-friendly analytics for non-technical users
 
 ##  Author
-Zahraa Rubaie
+kashif noor
 Data Scientist | Power BI Developer | AI Enthusiast
