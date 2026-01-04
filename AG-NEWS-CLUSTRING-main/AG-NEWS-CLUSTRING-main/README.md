@@ -42,7 +42,7 @@ Cluster 3 top terms: trade, oil, commodity, energy, prices, industry, market, pr
 ## How to Run
 1. Clone this repository:
 ````
-git clone <(https://github.com/zaralrubaie/AG-NEWS-CLUSTRING/edit/main/README.md)>
+git clone <(https://github.com/kash-if-noor/AG-NEWS-CLUSTRING/edit/main/README.md)>
 ````
 2. Install dependencies:
 ````
